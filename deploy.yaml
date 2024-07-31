@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: website
-        image: vidhyadevops/webimage
+        image: vidhyabtech/webimage
         ports:
         - containerPort: 80
